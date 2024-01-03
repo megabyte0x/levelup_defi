@@ -1,3 +1,6 @@
 [submodule "lending_level2/lib/forge-std"]
 	path = lending_level2/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "erc20_lending/lib/forge-std"]
+	path = erc20_lending/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
