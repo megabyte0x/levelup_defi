@@ -4,3 +4,6 @@
 [submodule "erc20_lending/lib/forge-std"]
 	path = erc20_lending/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "erc20_lending/lib/openzeppelin-contracts"]
+	path = erc20_lending/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
