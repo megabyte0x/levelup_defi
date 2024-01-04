@@ -7,3 +7,6 @@
 [submodule "erc20_lending/lib/openzeppelin-contracts"]
 	path = erc20_lending/lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lending_level3/lib/forge-std"]
+	path = lending_level3/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
