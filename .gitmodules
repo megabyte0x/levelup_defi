@@ -10,3 +10,9 @@
 [submodule "lending_level3/lib/forge-std"]
 	path = lending_level3/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/openzeppelin-contracts"]
+	path = lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "lending_level3/lib/openzeppelin-contracts"]
+	path = lending_level3/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
